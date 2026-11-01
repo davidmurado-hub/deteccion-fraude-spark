@@ -1,0 +1,7 @@
+
+pyspark==3.5.8
+pandas
+numpy
+matplotlib
+notebook
+ipykernel
